@@ -43,8 +43,8 @@ An interactive web application built using *Streamlit* to experiment with custom
 
 ## 1. Clone this repository:
 
-git clone https://github.com/Hima-2001/Tensor_Playground
-cd tf-playground-app
+git clone https://github.com/girinath661/Tensorflow-playground.git
+cd tf Tensorflow-playground
 
 ## 2. Install dependencies:
       pip install -r requirements.txt
